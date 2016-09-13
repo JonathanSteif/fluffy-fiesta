@@ -1,2 +1,4 @@
 # fluffy-fiesta
-A practice GitHub repo
+A GitHub repo
+
+I am a git god
